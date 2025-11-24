@@ -116,5 +116,6 @@ It is perfect for beginner to intermediate Python learners 🎓
 👤 Developer
 
 Name: Putta. Ashritha
+
 Project: Python GUI Mini Project using Tkinter
 🌟 Keep learning, keep building!
